@@ -17,4 +17,4 @@
 
 ### Resultados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./resultado.png "Optional title")
