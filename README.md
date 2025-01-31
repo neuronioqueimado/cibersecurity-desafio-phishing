@@ -15,6 +15,6 @@
 - Acessei o IP indicado no terminal através do navegador, no modo anônimo
 - A tela falsa de login do Facebook apareceu, e então inseri as credenciais.
 
-### Resutados
+### Resultados
 
 ![Alt text](./passwd.png "Optional title")
